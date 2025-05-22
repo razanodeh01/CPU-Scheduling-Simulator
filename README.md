@@ -1,4 +1,4 @@
-# 🖥️ CPU Scheduling Simulator (C)
+# 🖥️ CPU Scheduling Simulator
 
 
 ## 📄 About the Project
