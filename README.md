@@ -27,7 +27,7 @@ You can also compare which algorithm performs best in each metric.
 
 
 
-## 👤 Author
+## 👥 Contributors
 - [**Razan Abdalrahman**](https://github.com/razanodeh01)
 - [**Yasmeen Kamal**](https://github.com/yasmeenK15)
 
